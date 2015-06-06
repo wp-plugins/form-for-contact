@@ -18,7 +18,9 @@ This contact form can be used for customer feedback or contact.
 
 == Installation ==
 
-See "[Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins "Installing Plugins")" article on the WordPress Codex.
+1. See "[Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins "Installing Plugins")" article on the WordPress Codex.
+2. To use this plugin on your website, simply activate it in under the ‘Plugins’ section of your WordPress dashboard.
+3. Then create a post or page and then simply add the shortcode "[sitepoint_contact_form]" where you want the form to appear.
 
 
 
